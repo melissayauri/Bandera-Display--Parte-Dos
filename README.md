@@ -1,4 +1,4 @@
-          Banderas Display-Parte Dos
+# Banderas Display-Parte Dos
 
 1. Autora: Melissa Yauri
 
@@ -11,4 +11,4 @@ El presente trabajo consta de hacer uso de la propiedad "display", en el cual se
    -Css
 
 4. Imagen  
-![recursos](assets/display_parte2.jpg)
+![recursos](assets/docs/display_parte2.JPG)
